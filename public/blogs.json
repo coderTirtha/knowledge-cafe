@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author": "John Doe",
+        "authorImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+        "title": "The Art of Writing",
+        "readingTime": 15,
+        "hashtags": ["Writing Tips", "Creative Writing", "Literature"]
+    },
+    {
+        "id": "2",
+        "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
+        "author": "Jane Smith",
+        "authorImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+        "title": "Exploring Nature",
+        "readingTime": 10,
+        "hashtags": ["Nature", "Outdoor Adventures", "Wildlife"]
+    },
+    {
+        "id": "3",
+        "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author": "Alice Johnson",
+        "authorImage": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
+        "title": "The Science of Cooking",
+        "readingTime": 12,
+        "hashtags": ["Cooking Techniques", "Culinary Arts", "Recipes"]
+    },
+    {
+        "id": "4",
+        "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
+        "author": "Bob Wilson",
+        "authorImage": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
+        "title": "Time Management Hacks",
+        "readingTime": 8,
+        "hashtags": ["Productivity", "Time Efficiency", "Work-Life Balance"]
+    },
+    {
+        "id": "5",
+        "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author": "Emily Davis",
+        "authorImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
+        "title": "Artistic Inspiration",
+        "readingTime": 14,
+        "hashtags": ["Artistry", "Creativity", "Visual Arts"]
+    },
+    {
+        "id": "6",
+        "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author": "Michael Brown",
+        "authorImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+        "title": "Fitness and Health",
+        "readingTime": 11,
+        "hashtags": ["Fitness Tips", "Health & Wellness", "Exercise"]
+    },
+    {
+        "id": "7",
+        "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "author": "Sarah Wilson",
+        "authorImage": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
+        "title": "Exploring the Cosmos",
+        "readingTime": 9,
+        "hashtags": ["Astronomy", "Space Exploration", "Stargazing"]
+    },
+    {
+        "id": "8",
+        "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
+        "author": "David Lee",
+        "authorImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+        "title": "Technology Trends",
+        "readingTime": 13,
+        "hashtags": ["Tech News", "Innovations", "Digital World"]
+    },
+    {
+        "id": "9",
+        "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
+        "author": "Linda Johnson",
+        "authorImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+        "title": "Traveling Adventures",
+        "readingTime": 7,
+        "hashtags": ["Travel Stories", "Adventure Journeys", "Wanderlust"]
+    },
+    {
+        "id": "10",
+        "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
+        "author": "Richard Smith",
+        "authorImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
+        "title": "Culinary Delights",
+        "readingTime": 16,
+        "hashtags": ["Gourmet Cuisine", "Foodie Adventures", "Recipes"]
+    }
+]
