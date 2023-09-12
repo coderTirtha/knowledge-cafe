@@ -1,4 +1,6 @@
 import { useEffect, useState } from "react";
+import PropTypes from 'prop-types';
+import Blog from "../Blog/Blog";
 
 const Blogs = () => {
     const [blogs, setBlogs] =useState([]);
@@ -8,8 +10,13 @@ const Blogs = () => {
         .then(data => setBlogs(data));
     }, [])
     return (
-        <div>
-            
+        <div className="md:w-2/3">
+            <h2>Blogs: {blogs.length}</h2>
+            <div>
+                {
+                    blogs.map(blog => <Blog key={blog.id} blog={blog}></Blog>)
+                }
+            </div>
         </div>
     );
 };
