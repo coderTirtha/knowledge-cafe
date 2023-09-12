@@ -11,11 +11,22 @@ function App() {
 
   const handleAddToBookmark = blog => {
     const newBookmarks = [...bookmarks, blog];
-    setBookmarks(newBookmarks);
+    const bookmarkId = [];
+    newBookmarks.forEach(bookmark => {
+      bookmarkId.push(bookmark.id);
+    });
+    const duplicateId = bookmarkId.filter(id => blog.id === id);
+    if (duplicateId.length > 1) {
+      alert('You have already bookmarked this blog');
+    } else {
+      setBookmarks(newBookmarks);
+    }
   }
 
-  const handleMarkAsRead = time => {
+  const handleMarkAsRead = (time, id) => {
     setReadingTime(readingTime + time);
+    const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !== id);
+    setBookmarks(remainingBookmarks);
   }
 
   let count;
