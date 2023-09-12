@@ -1,92 +1,102 @@
 [
     {
         "id": "1",
-        "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "coverImage": "https://i.ibb.co/0Xdqb7k/1.jpg",
         "author": "John Doe",
-        "authorImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
-        "title": "The Art of Writing",
+        "authorImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "title": "Mastering ES6: Uncovering the Top 10 Features",
         "readingTime": 15,
-        "hashtags": ["Writing Tips", "Creative Writing", "Literature"]
+        "hashtags": ["JavaScript", "ES6", "Programming"],
+        "postedDate": "Mar 14 (4 Days ago)"
     },
     {
         "id": "2",
-        "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
+        "coverImage": "https://i.ibb.co/p2nn873/3.png",
         "author": "Jane Smith",
         "authorImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
-        "title": "Exploring Nature",
+        "title": "Demystifying React: Exploring the Core Concepts",
         "readingTime": 10,
-        "hashtags": ["Nature", "Outdoor Adventures", "Wildlife"]
+        "hashtags": ["React", "Frontend", "JavaScript"],
+        "postedDate": "Mar 10 (8 Days ago)"
     },
     {
         "id": "3",
-        "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
+        "coverImage": "https://i.ibb.co/chf6mn5/4.jpg",
         "author": "Alice Johnson",
-        "authorImage": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
-        "title": "The Science of Cooking",
+        "authorImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "title": "Unlocking Knowledge: Your Gateway to Free Resources",
         "readingTime": 12,
-        "hashtags": ["Cooking Techniques", "Culinary Arts", "Recipes"]
+        "hashtags": ["Resources", "Learning", "Free"],
+        "postedDate": "Mar 12 (6 Days ago)"
     },
     {
         "id": "4",
-        "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
+        "coverImage": "https://i.ibb.co/r6kNr6w/2.png",
         "author": "Bob Wilson",
         "authorImage": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
-        "title": "Time Management Hacks",
+        "title": "Coding Chronicles: 10 Must-Knows Before You Begin",
         "readingTime": 8,
-        "hashtags": ["Productivity", "Time Efficiency", "Work-Life Balance"]
+        "hashtags": ["Coding Tips", "Programming Insights", "Coding Essentials"],
+        "postedDate": "Mar 8 (10 Days ago)"
     },
     {
         "id": "5",
         "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
         "author": "Emily Davis",
-        "authorImage": "https://i.ibb.co/ZRjcfsQ/rsz-1bohemian-man-with-his-arms-crossed.jpg",
-        "title": "Artistic Inspiration",
+        "authorImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+        "title": "The Muse Within: Unlocking Artistic Inspiration",
         "readingTime": 14,
-        "hashtags": ["Artistry", "Creativity", "Visual Arts"]
+        "hashtags": ["Artistry", "Creativity", "Visual Arts"],
+        "postedDate": "Mar 16 (2 Days ago)"
     },
     {
         "id": "6",
         "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
         "author": "Michael Brown",
         "authorImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
-        "title": "Fitness and Health",
+        "title": "Body & Soul Harmony: Your Fitness Journey",
         "readingTime": 11,
-        "hashtags": ["Fitness Tips", "Health & Wellness", "Exercise"]
+        "hashtags": ["Fitness Tips", "Health & Wellness", "Exercise"],
+        "postedDate": "Mar 11 (7 Days ago)"
     },
     {
         "id": "7",
         "coverImage": "https://i.ibb.co/LQxPsG9/flat-lay-workstation-with-copy-space-laptop.jpg",
         "author": "Sarah Wilson",
-        "authorImage": "https://i.ibb.co/64Gq3Lp/rsz-pexels-mikhail-nilov-6930547.jpg",
-        "title": "Exploring the Cosmos",
+        "authorImage": "https://i.ibb.co/yRPxRJm/girl2.jpg",
+        "title": "Cosmic Journeys: Stargazing and Beyond",
         "readingTime": 9,
-        "hashtags": ["Astronomy", "Space Exploration", "Stargazing"]
+        "hashtags": ["Astronomy", "Space Exploration", "Stargazing"],
+        "postedDate": "Mar 9 (9 Days ago)"
     },
     {
         "id": "8",
         "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
         "author": "David Lee",
-        "authorImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
-        "title": "Technology Trends",
+        "authorImage": "https://i.ibb.co/KVZDQfs/boy2.jpg",
+        "title": "Tech Odyssey: Navigating the Digital Landscape",
         "readingTime": 13,
-        "hashtags": ["Tech News", "Innovations", "Digital World"]
+        "hashtags": ["Tech Insights", "Digital Innovations", "The Future"],
+        "postedDate": "Mar 13 (5 Days ago)"
     },
     {
         "id": "9",
         "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
         "author": "Linda Johnson",
-        "authorImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
-        "title": "Traveling Adventures",
+        "authorImage": "https://i.ibb.co/tCTZqnp/girl1.jpg",
+        "title": "Wanderlust Chronicles: Traveling the Globe",
         "readingTime": 7,
-        "hashtags": ["Travel Stories", "Adventure Journeys", "Wanderlust"]
+        "hashtags": ["Travel Stories", "Adventure Journeys", "Wanderlust"],
+        "postedDate": "Mar 7 (11 Days ago)"
     },
     {
         "id": "10",
         "coverImage": "https://i.ibb.co/1LrsS92/workplace-with-smartphone-laptop-black-table-top-view-copyspace-background.jpg",
         "author": "Richard Smith",
-        "authorImage": "https://i.ibb.co/gjNG0HW/rsz-1pexels-files-8833551.jpg",
-        "title": "Culinary Delights",
+        "authorImage": "https://i.ibb.co/8jsV5CQ/boy1.png",
+        "title": "Epicurean Escapades: A Journey Through Gourmet Cuisine",
         "readingTime": 16,
-        "hashtags": ["Gourmet Cuisine", "Foodie Adventures", "Recipes"]
+        "hashtags": ["Culinary Delights", "Foodie Adventures", "Recipes"],
+        "postedDate": "Mar 16 (2 Days ago)"
     }
 ]
