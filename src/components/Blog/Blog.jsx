@@ -3,7 +3,7 @@ import { BsBookmark } from "react-icons/bs";
 const Blog = ({ blog, handleAddToBookmark, handleMarkAsRead }) => {
     const { id, coverImage, author, authorImage, title, readingTime, hashtags, postedDate } = blog;
     return (
-        <div className='my-4'>
+        <div className='my-4' id={id}>
             <img src={coverImage} alt="" />
             <div className='flex justify-between my-4'>
                 <div className='flex items-center gap-4'>
